@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Finans</string>
+    <string name="login_title">Bem-vindo ao Finans</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_password">Senha</string>
+    <string name="btn_login">Entrar</string>
+    <string name="forgot_password">Esqueceu sua senha?</string>
+</resources>
